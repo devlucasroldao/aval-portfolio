@@ -8,7 +8,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-![Aval](imagens/capa.png)
+![Aval](aval-portfolio/imagens/capa.png)
 
 > ⚠️ **Repositório de estudo de caso.** O Aval é um produto meu, em operação, e o código-fonte é privado. Aqui ficam o que ele faz, as decisões por trás e como ele foi construído. Todas as telas usam marcas fictícias.
 
@@ -36,7 +36,7 @@ Fiz o produto de ponta a ponta, sozinho: interface, banco, segurança, landing, 
 
 ## 📱 O lado do cliente
 
-![O cliente aprova no celular](imagens/cliente.png)
+![O cliente aprova no celular](aval-portfolio/imagens/cliente.png)
 
 - **Prévia da semana:** o feed do jeito que vai ficar, com stories, carrossel e Reels. Aprovar ou pedir ajuste post por post, com a nota do que mudar.
 - **Calendário do mês:** o planejamento num link só, com campanha, data e a descrição de cada item.
@@ -46,11 +46,11 @@ Fiz o produto de ponta a ponta, sozinho: interface, banco, segurança, landing, 
 
 Tudo abre num link com o logo, a cor e a fonte da agência (27 fontes), inclusive a capa do link no WhatsApp. O cliente não vê o nome Aval.
 
-![Calendário do mês](imagens/calendario-desktop.png)
+![Calendário do mês](aval-portfolio/imagens/calendario-desktop.png)
 
 ## 🗓️ O lado da agência
 
-![Agenda da agência](imagens/agenda.png)
+![Agenda da agência](aval-portfolio/imagens/agenda.png)
 
 - **Agenda com todos os clientes:** etapa do briefing ao postado, responsável, filtro por pessoa da equipe e lembretes (do cliente ou da agência).
 - **O mês inteiro de uma vez:** planejou no Claude ou no ChatGPT? Cola a resposta (JSON, tabela ou linhas de planilha) e confere linha por linha antes de entrar.
@@ -59,13 +59,13 @@ Tudo abre num link com o logo, a cor e a fonte da agência (27 fontes), inclusiv
 - **Ferramentas do dia a dia:** dividir imagem pra carrossel, conversão de HEIC do iPhone e o mês inteiro num ZIP (pastas por semana e dia, com legendas e o calendário em planilha).
 - **Onboarding sem atrito:** tour guiado que monta um cliente de exemplo, card de novidades e o painel instalável como app (PWA).
 
-![Painel da agência](imagens/painel.png)
+![Painel da agência](aval-portfolio/imagens/painel.png)
 
 ---
 
 ## 🛠️ Stack e decisões
 
-![Por dentro](imagens/por-dentro.png)
+![Por dentro](aval-portfolio/imagens/por-dentro.png)
 
 | Camada | Tecnologia | Por quê |
 |---|---|---|
